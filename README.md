@@ -1,5 +1,5 @@
 # Olist Analysis
----
+[![Readme-EN](https://img.shields.io/badge/README-EN-blue.svg)](README.en.md)
 
 #### O que é Olist?
 
