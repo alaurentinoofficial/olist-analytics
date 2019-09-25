@@ -3,7 +3,6 @@
 
 #### What is Olist?
 
-> <br>
 > Olist is a great sales channel totally different from what you have seen: our mega store is present in the main marketplaces in Brazil and is formed by thousands of other retailers like you. Our mission is to strengthen trade and make your products more competitive, increasing the chances of you selling more.
 > _<div style="text-align: right;text">- olist.com</div>_
 
