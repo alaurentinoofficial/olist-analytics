@@ -16,25 +16,29 @@
 <br>
 <br>
 
-### Faturamento
+<h4 style="text-align: center">Faturamento</h4>
+
 ![Faturamento](images/faturamento.png "Faturamento")
 
 <br>
 <br>
 
-### Vendas
+<h4 style="text-align: center">Vendas</h4>
+
 ![Vendas](images/vendas.png "Vendas")
 
 <br>
 <br>
 
-### Entregas
+<h4 style="text-align: center">Entregas</h4>
+
 ![Entregas](images/entregas.png "Entregas")
 
 <br>
 <br>
 
-### Satisfação
+<h4 style="text-align: center">Satisfação</h4>
+
 ![Satisfação](images/satisfacao.png "Satisfação")
 
 
